@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html></html>
+
+<head>
+<meta charset="utf-8"> <!--codification -->
+<meta name=description>
+<meta name="viewport" content="=width=device-widht">
+<meta name="robots" content="=index, follow">
+<meta name="theme-color" content="#09f">
+
+</head>
+<!--open graph-->
+<meta property="DISEÑO DE Software">
+<meta property="og:image" content =iama>
+<link rel="alterante" href =https:>
+<link rel="canonical" 
+<link rel="alternate"
+<body>
+ 
+
+<!--Aqui tu comentario -->
+<h1>portfolio de @midudev ☹️</h1>
+<p>+15 años de experiencia como <strong> ingeniero de Software. Creador y divulgador de programació.<strong></strong></p>
+<h2>Experiencia</h2>
+<ul>
+<li>Adevinta - 2022</li>
+<li>Hubii -2020</li>
+<li> Nacencia - 2015</li>
+
+<li class="list-item"></li>
+<li class="list-item"></li>
+<li class="list-item"></li>
+
+</ul>
+
+<img 
+id="class"
+title foto marc
+alt="Una fotografia mia en un armario"
+src="YO.png">
+height="200"
+width="200"
+<ul>
+
+
