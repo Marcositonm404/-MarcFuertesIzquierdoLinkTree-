@@ -69,10 +69,10 @@ main {
 }
 
 .card {
-    background: rgb(178, 178, 221);
+    background: rgba(20, 30, 80, 0.75);
     width: 380px;
     border-radius: 12px;
-    border: solid 2px rgb(209, 207, 207);
+    border: 1px solid rgba(255,255,255,0.15);
     padding: 19px 24px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
     text-decoration: none;
